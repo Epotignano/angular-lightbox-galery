@@ -27,7 +27,7 @@
 	var lightBoxProvider = function() {
 		/*Define custom configuration here */
 
-		this.defaults {
+		this.defaults = {
 			template: 'lightbox-overlay.tpl.html',
 		}
 	}
